@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'logpipe',
-  tagline: 'logpipe is a log processing engine',
+  tagline: 'logpipe is a simple log processing engine',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -29,7 +29,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'zh-Hans'],
   },
 
   presets: [
@@ -76,6 +76,10 @@ const config = {
           {
             href: 'https://github.com/logpipe/logpipe',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
         ],
