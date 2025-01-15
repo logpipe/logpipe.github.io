@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://logpipe.github.io/blog</id>
-    <title>logpipe Blog</title>
+    <title>LogPipe Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://logpipe.github.io/blog"/>
-    <subtitle>logpipe Blog</subtitle>
+    <subtitle>LogPipe Blog</subtitle>
     <icon>https://logpipe.github.io/img/logpipe-logo.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
