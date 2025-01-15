@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'logpipe',
   tagline: 'logpipe is a simple log processing engine',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logpipe-logo.png',
 
   // Set the production url of your site here
   url: 'https://logpipe.github.io',
@@ -60,10 +60,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'logpipe',
+        title: 'LogPipe',
         logo: {
           alt: 'Logpipe Logo',
-          src: 'img/logo.svg',
+          src: 'img/logpipe-logo1.png',
         },
         items: [
           {
