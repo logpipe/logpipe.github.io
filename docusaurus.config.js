@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'logpipe',
+  title: 'LogPipe',
   tagline: 'logpipe is a simple log processing engine',
   favicon: 'img/logpipe-logo.png',
 
@@ -63,7 +63,7 @@ const config = {
         title: 'LogPipe',
         logo: {
           alt: 'Logpipe Logo',
-          src: 'img/logpipe-logo1.png',
+          src: 'img/logpipe-logo.png',
         },
         items: [
           {
